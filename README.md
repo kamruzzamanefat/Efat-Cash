@@ -156,8 +156,8 @@ h1 {
 <body>
 
 <div class="container">
-    <h1>Earn Master</h1>
-    <a href="https://www.youtube.com/@onlinehelp360-bd" target="_blank" class="developer">Online Help 360</a>
+    <h1>Efat Cash</h1>
+    <a href="https://www.youtube.com/@ItzEfu" target="_blank" class="developer">kamruzzaman Efat</a>
 
     <div class="stats">
         <p>Watched Ads: <span id="watched-ads">0</span></p>
